@@ -1,0 +1,31 @@
+.particular{
+text-align: center;
+}
+.part-head{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+     color: white;
+      background-color: black;
+}
+.part-episode{
+    background-color: antiquewhite;
+    margin-top: -19px;
+    padding: 20px ;
+}
+.part-element{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  row-gap: 30px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+ background-color: rgb(147, 153, 153);
+ background-color: brown;
+}
+.part-ele-bg{
+    background-color: darkblue;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
